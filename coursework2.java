@@ -96,8 +96,6 @@ public class Arraylist {
          System.out.println("course"+" "+obj5+" "+cour5);
          System.out.println("course"+" "+obj6+" "+cour6);
            
-         float ava=(cour1+cour2+cour3+cour4+cour5+cour6)*100/600;
-        System.out.println("average IS: "+ ava);
  }
             
             n++;
