@@ -215,9 +215,9 @@ int ava = 0;
         System.out.println(obj.sub4+" "+obj.markD+" "+obj.gradeD+" "+obj.gpaD);
         System.out.println(obj.sub5+" "+obj.markE+" "+obj.gradeE+" "+obj.gpaE);
         System.out.println(obj.sub6+" "+obj.markF+" "+obj.gradeF+" "+obj.gpaF);
-        
-        float ava=(obj.markA+obj.markB+obj.markC+obj.markD+obj.markE+obj.markF)*100/600;
-        System.out.println("average IS: "+ ava);
+          float ava=(obj.markA+obj.markB+obj.markC+obj.markD+obj.markE+obj.markF)*100/600;
+        System.out.println("average IS: "+ ava); 
+     
         
     }
                 }
